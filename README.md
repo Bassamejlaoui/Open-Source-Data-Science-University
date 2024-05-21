@@ -74,6 +74,8 @@
 
 ### Elective A Options:
 
+***In your 5th semester, you'll need to choose an elective module, which you can choose from one of the following modules:***
+
 1. **Data Engineer**
    - [Data Engineering, Big Data, and Machine Learning on GCP (Coursera)](https://www.coursera.org/specializations/data-engineering-google-cloud)
    - [Data Engineering Nanodegree (Udacity)](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
@@ -96,6 +98,8 @@
 
 ### Elective B Options:
 
+***In your 5th semester, you'll need to choose an elective module, which you can choose from one of the following modules:***
+
 1. **International Marketing and Branding**
    - [International Marketing (Coursera)](https://www.coursera.org/learn/international-marketing)
    - [Branding, Content & Social Media (Coursera)](https://www.coursera.org/learn/branding-content-social-media)
@@ -117,6 +121,9 @@
    - [Introduction to Robotics (edX)](https://www.edx.org/course/introduction-to-robotics)
 
 ### Elective C Options:
+
+***In your 5th semester, you'll need to choose an elective module, which you can choose from one of the following modules:***
+
 
 1. **International Marketing and Branding**
    - [International Marketing (Coursera)](https://www.coursera.org/learn/international-marketing)
