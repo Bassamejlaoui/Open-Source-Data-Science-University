@@ -152,7 +152,7 @@
 
 # Stan4fordXhar4vard
 
-Certainly! Let's expand the Data Science curriculum further with additional modules and content:
+Let's expand the Data Science curriculum further with additional modules and content:
 
 | Course Code | Course Title                                       | Duration | Effort | Content Link                                    |
 |-------------|----------------------------------------------------|----------|--------|-------------------------------------------------|
@@ -184,5 +184,30 @@ Certainly! Let's expand the Data Science curriculum further with additional modu
 | DS-123 | Blockchain and Cryptocurrencies                 | 4 weeks            | [Stanford Blockchain](https://web.stanford.edu/class/msande271/) |
 | DS-124 | Data Science for Internet of Things              | 5 weeks            | [Stanford IoT](https://stanford.edu/~matryx/courses/iot/) |
 | DS-125 | Geospatial Data Analysis                        | 4 weeks            | [Stanford Geospatial](https://earth.stanford.edu/study/academic-programs/undergraduate/minor/geospatial-ecological) |
+
+Certainly! Here's the expanded Data Science curriculum with additional modules and content from Harvard and Stanford:
+
+### Supervised Learning
+
+| Course Code | Course Title                                | Duration | Effort      | Content Link                                                  |
+|-------------|---------------------------------------------|----------|-------------|----------------------------------------------------------------|
+| DS-201      | Supervised Learning                         | 5 weeks  | 5-7 hrs/week | [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) |
+| DS-202      | Advanced Supervised Learning Techniques     | 6 weeks  | 6-8 hrs/week | [Stanford CS229 - Machine Learning Advanced Topics](https://stanford.edu/~shervine/teaching/cs-229/) |
+| DS-203      | Applied Supervised Learning in Python       | 4 weeks  | 4-6 hrs/week | [Harvard CS50 - AI with Python](https://cs50.harvard.edu/ai/2020/) |
+| DS-204      | Linear Regression and Model Evaluation      | 4 weeks  | 4-6 hrs/week | [Harvard STAT110 - Probability](https://projects.iq.harvard.edu/stat110) |
+| DS-205      | Classification and Support Vector Machines  | 5 weeks  | 5-7 hrs/week | [Stanford CS229 - Support Vector Machines](https://see.stanford.edu/Course/CS229) |
+
+### Unsupervised Learning
+
+| Course Code | Course Title                                | Duration | Effort      | Content Link                                                  |
+|-------------|---------------------------------------------|----------|-------------|----------------------------------------------------------------|
+| DS-301      | Unsupervised Learning                       | 5 weeks  | 5-7 hrs/week | [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) |
+| DS-302      | Clustering and Dimensionality Reduction     | 6 weeks  | 6-8 hrs/week | [Stanford CS229 - Unsupervised Learning](https://stanford.edu/~shervine/teaching/cs-229/) |
+| DS-303      | Principal Component Analysis (PCA)          | 4 weeks  | 4-6 hrs/week | [Stanford STAT202 - Data Mining and Analysis](https://web.stanford.edu/class/stats202/) |
+| DS-304      | Advanced Unsupervised Learning Techniques   | 5 weeks  | 5-7 hrs/week | [Harvard CS181 - Advanced Unsupervised Learning](http://cs181.org/) |
+| DS-305      | Applied Unsupervised Learning in Python     | 4 weeks  | 4-6 hrs/week | [Harvard CS50 - AI with Python](https://cs50.harvard.edu/ai/2020/) |
+
+
+This comprehensive list includes a wide range of courses covering both supervised and unsupervised learning, alongside additional modules to provide a robust Data Science curriculum drawing from top-tier universities.
 
 This expanded curriculum now includes modules on Applied Data Science Projects, Cloud Computing for Data Science, Blockchain and Cryptocurrencies, Data Science for Internet of Things, and Geospatial Data Analysis. Each module is linked to relevant Stanford resources or other reputable sources for further exploration and study in those specialized areas of Data Science.
