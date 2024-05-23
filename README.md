@@ -207,6 +207,22 @@ Certainly! Here's the expanded Data Science curriculum with additional modules a
 | DS-304      | Advanced Unsupervised Learning Techniques   | 5 weeks  | 5-7 hrs/week | [Harvard CS181 - Advanced Unsupervised Learning](http://cs181.org/) |
 | DS-305      | Applied Unsupervised Learning in Python     | 4 weeks  | 4-6 hrs/week | [Harvard CS50 - AI with Python](https://cs50.harvard.edu/ai/2020/) |
 
+## Extra
+
+### Data Science Curriculum
+
+| Course Code | Course Title                                       | Duration  | Effort          | Content Links                                                                                           |
+|-------------|----------------------------------------------------|-----------|-----------------|---------------------------------------------------------------------------------------------------------|
+| DS-101      | Data Science: Visualization                        | 8 weeks   | 2-4 hrs/week    | [Harvard - Visualization](https://online-learning.harvard.edu/course/data-science-visualization) <br> [Stanford - Data Visualization](https://www.coursera.org/learn/data-visualization) |
+| DS-102      | Databases: Self-Paced                              | Self-paced| Self-paced      | [Harvard - Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) <br> [Stanford - Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) |
+| DS-103      | Introduction to Power BI                           | 4 weeks   | 2-4 hrs/week    | [Microsoft - Analyzing and Visualizing Data with Power BI](https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi) (Free with audit) <br> [Stanford - Introduction to Data Science](https://online.stanford.edu/courses/soe-ycs0001-introduction-computer-science) |
+| DS-104      | CS50's Introduction to Computer Science            | 11 weeks  | 6-18 hrs/week   | [Harvard - CS50](https://cs50.harvard.edu/x/2023/) <br> [Stanford - Code in Place](https://codeinplace.stanford.edu/) |
+| DS-105      | Data Science: Linear Regression                    | 8 weeks   | 2-4 hrs/week    | [Harvard - Linear Regression](https://online-learning.harvard.edu/course/data-science-linear-regression) <br> [Stanford - Statistical Learning](https://online.stanford.edu/courses/soe-ycs0004-statistical-learning) |
+| DS-106      | CS224n Natural Language Processing with Deep Learning | 10 weeks  | 10-15 hrs/week  | [Harvard - Data Science: Machine Learning](https://online-learning.harvard.edu/course/data-science-machine-learning) <br> [Stanford - NLP](http://web.stanford.edu/class/cs224n/) |
+| DS-107      | CS50's Introduction to AI with Python              | 7 weeks   | 10-30 hrs/week  | [Harvard - AI with Python](https://cs50.harvard.edu/ai/2020/) <br> [Stanford - Machine Learning](https://see.stanford.edu/Course/CS229) |
+| DS-108      | CS229 Machine Learning (Unsupervised Learning section) | Self-paced| Self-paced      | [Harvard - Unsupervised Learning](https://online-learning.harvard.edu/course/data-science-machine-learning) <br> [Stanford - Unsupervised Learning](https://see.stanford.edu/Course/CS229) |
+
+This table now includes the appropriate free courses from both Harvard and Stanford, ensuring the content is accessible and relevant to the specified topics.
 
 This comprehensive list includes a wide range of courses covering both supervised and unsupervised learning, alongside additional modules to provide a robust Data Science curriculum drawing from top-tier universities.
 
